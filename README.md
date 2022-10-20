@@ -1,2 +1,2 @@
-# git_practice_assignmnet
+# git2_practice_assignmnet
    Only for Assignment 
